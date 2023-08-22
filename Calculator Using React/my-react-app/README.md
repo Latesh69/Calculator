@@ -10,7 +10,7 @@ To run it on your local machine clone into the repo, then type:
     
 A sneak peek:
 
-![alt react-calculator-simple](https://drive.google.com/file/d/12dkrpx-gQa6LyCkCvEdM1xoiZSHeDiXA/view?usp=sharing)
+![alt react-calculator-simple](https://github.com/Latesh69/Calculator/blob/214101a9fe5ef8e9769f0cfc1152f8a73c4c5b20/Calculator%20Using%20React/my-react-app/Calci.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
