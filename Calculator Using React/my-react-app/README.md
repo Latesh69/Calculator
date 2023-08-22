@@ -8,9 +8,9 @@ To run it on your local machine clone into the repo, then type:
     npm install && npm start
     
     
-A sneak peek: (https://drive.google.com/file/d/12dkrpx-gQa6LyCkCvEdM1xoiZSHeDiXA/view?usp=sharing)
+A sneak peek:
 
-![alt react-calculator-simple](Screenshot.png)
+![alt react-calculator-simple](https://drive.google.com/file/d/12dkrpx-gQa6LyCkCvEdM1xoiZSHeDiXA/view?usp=sharing)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
