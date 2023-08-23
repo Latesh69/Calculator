@@ -10,7 +10,7 @@ To run it on your local machine clone into the repo, then type:
     
 A sneak peek:
 
-![alt react-calculator-simple](Calculator Using React/my-react-app/Calci.png)
+![alt react-calculator-simple](https://github.com/Latesh69/Calculator/blob/88b56f31e99e85c11b13fced95f5a2477faa21b2/Calculator%20Using%20React/my-react-app/Calci.png)
 
 ### `npm start`
 
